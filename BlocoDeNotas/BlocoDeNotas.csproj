@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16CBA496-1809-442D-83F8-9E526A9D9489}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BlocoDeNotas</RootNamespace>
+    <AssemblyName>BlocoDeNotas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="C.Designer.cs">
+      <DependentUpon>C.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Css.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Css.Designer.cs">
+      <DependentUpon>Css.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Java.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Java.Designer.cs">
+      <DependentUpon>Java.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JavaScript.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JavaScript.Designer.cs">
+      <DependentUpon>JavaScript.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotasDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NotasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janela.Designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WindowC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowC.Designer.cs">
+      <DependentUpon>WindowC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowCss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowCss.Designer.cs">
+      <DependentUpon>WindowCss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowJava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowJava.Designer.cs">
+      <DependentUpon>WindowJava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowJavaScript.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowJavaScript.Designer.cs">
+      <DependentUpon>WindowJavaScript.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="C.resx">
+      <DependentUpon>C.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Css.resx">
+      <DependentUpon>Css.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Java.resx">
+      <DependentUpon>Java.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JavaScript.resx">
+      <DependentUpon>JavaScript.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janela.resx">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="WindowC.resx">
+      <DependentUpon>WindowC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowCss.resx">
+      <DependentUpon>WindowCss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowJava.resx">
+      <DependentUpon>WindowJava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowJavaScript.resx">
+      <DependentUpon>WindowJavaScript.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="NotasDataSet.xsc">
+      <DependentUpon>NotasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NotasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NotasDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NotasDataSet.xss">
+      <DependentUpon>NotasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

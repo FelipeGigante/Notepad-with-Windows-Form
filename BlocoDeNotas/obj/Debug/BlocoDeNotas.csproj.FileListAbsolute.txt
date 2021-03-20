@@ -1,0 +1,34 @@
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csprojAssemblyReference.cache
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Properties.Resources.resources
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Janela.resources
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Principal.resources
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.mdf
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas_log.ldf
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.C.resources
+C:\Users\lipeg\Desktop\Programação\Bloco de Notas\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.WindowC.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csprojAssemblyReference.cache
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.C.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Principal.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Janela.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Properties.Resources.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.WindowC.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Css.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Java.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.JavaScript.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.WindowJava.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.WindowCss.resources
+C:\Users\lipeg\Desktop\Programação\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.WindowJavaScript.resources
